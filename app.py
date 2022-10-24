@@ -3,7 +3,6 @@ from database import db
 from flask_migrate import Migrate
 from models import Persona
 
-
 app = Flask(__name__)
 
 #Configuración de la bD
